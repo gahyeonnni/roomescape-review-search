@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+# editor
+.idea
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# public/data/reviews.json 은 정적 배포용 스냅샷이라 커밋합니다.
